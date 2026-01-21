@@ -15,4 +15,4 @@ Each model is trained on the same training data and evaluated using accuracy, pr
 
 This project was implemented in Jupyter Notebook using Python libraries such as pandas, scikit-learn, matplotlib, and numpy.
 
-Please Note that two of the CSV's are missing due to their large file size
+Please Note that the three CSV's are missing due to their large file size
