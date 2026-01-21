@@ -14,3 +14,5 @@ Support Vector Machine (SVM)
 Each model is trained on the same training data and evaluated using accuracy, precision, recall, F1-score, confusion matrices, and visual comparison plots. The goal of the project is to analyze how different algorithms perform on music genre classification and understand their strengths and limitations.
 
 This project was implemented in Jupyter Notebook using Python libraries such as pandas, scikit-learn, matplotlib, and numpy.
+
+Please Note that two of the CSV's are missing due to their large file size
